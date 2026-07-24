@@ -63,5 +63,10 @@ export const cool = [
       id: 8,
       imgURL: cool8,
      
-    } 
+    },
+    
   ]                                          
+
+  
+    
+  

@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 
+
 const HeroM = () => {
   return (
     <section className="p-14 min-h-screen flex justify-between bg-blue-50 rounded-3xl mt-5">
@@ -50,7 +51,7 @@ const HeroM = () => {
 
         {/* Hero Image */}
         <motion.img
-          src="../src/assets/images/pinkhair.jpg"
+          src="/images/pinkhair.jpg"
           className="h-[570px] w-[700px] relative z-10"
           initial={{ opacity: 1, y: 100 }}
           animate={{ opacity: 1, y: 0 }}

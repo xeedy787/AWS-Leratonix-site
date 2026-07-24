@@ -13,7 +13,7 @@ const RivalCard = ({ imgURL, head, expl }) => {
                  transition={{ duration: 1.5, delay: 0.5 }}
             />
             <div className="">
-            <h2 className="font-semibold pt-7 flex gap-28 font-mono text-slate-gray ml-3">{head}<span > <img src="./src/assets/icons/arrow-right.svg"
+            <h2 className="font-semibold pt-7 flex gap-28 font-mono text-slate-gray ml-3">{head}<span > <img src="/arrow-right.svg"
                     className="cursor-pointer"/> </span></h2>
             <p className="font-serif  ">{expl}</p>
 

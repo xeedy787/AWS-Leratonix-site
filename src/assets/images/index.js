@@ -1,4 +1,3 @@
-import pinkhair from './pinkhair.jpg'
 
 import coats from './coats.jpg'
 import ene from './ene.jpg'
@@ -15,8 +14,8 @@ import cool8 from './cool8.jpg'
 
 
 
+
 export {
-    pinkhair,
 
     ene,
     kira,
@@ -30,4 +29,5 @@ export {
     cool6,
     cool7,
     cool8,
+
 }

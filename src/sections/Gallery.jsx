@@ -7,20 +7,20 @@ const Gallery = () => {
             <h2 className="font-mono font-extralight text-4xl text-right ">Our Gallery</h2>
         </div>
         <div className="grid grid-cols-2 pt-5">
-            <img src="./src/assets/images/gal1.png" 
+            <img src="/images/gal1.png" 
                  alt="image"
                  className=""
             />
-             <img src="./src/assets/images/gal2.png" 
+             <img src="/images/gal2.png" 
                  alt="image"
                  className=""
             />
-             <img src="./src/assets/images/gals3.png" 
+             <img src="/images/gals3.png" 
                  alt="image"
                  className=""
             />
             <div className="relative">
-             <img src="./src/assets/images/gal4.png" 
+             <img src="/images/gal4.png" 
                  alt="image"
                  className=""    
              />
@@ -32,7 +32,7 @@ const Gallery = () => {
                transition={{ duration: 0.3 }}
              >
                See More
-               <img src="./src/assets/icons/arrow-right.svg"
+               <img src="/arrow-right.svg"
                     className=""/>
              </motion.button>
            </div>

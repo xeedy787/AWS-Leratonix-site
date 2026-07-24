@@ -7,7 +7,7 @@ const About = () => {
           
           <div className="relative inline-block  p-10 bg-white min-h-[800px]  ">
             <div className="absolute left-[-8%] bottom-[-1%] w-[117%] h-[40%] z-[-1] bg-gray-400 mb-28  "></div>
-              <img src="./src/assets/images/youngmum.jpg"
+              <img src="/images/youngmum.jpg"
                    className=" h-[44rem] w-[25rem]    "/>
           </div>
          
