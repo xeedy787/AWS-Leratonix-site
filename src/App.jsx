@@ -1,10 +1,9 @@
 import About from "./sections/About";
-import Arrivals from "./sections/Arrivals";
+import Arrivalz from "./sections/Arrivalz";
 import Footer from "./sections/Footer";
 import Forms from "./sections/Forms";
 import Gallery from "./sections/Gallery";
-import Hero from "./sections/Hero";
-import HeroM from "./sections/HeroM";
+import HeroR from "./sections/HeroR";
 import Nav from "./sections/Nav";
 import NavM from "./sections/NavM";
 import Collections from "./sections/components/Collections";
@@ -16,9 +15,9 @@ const App = () => {
     <div className="">
       <div className=" p-5  min-h-screen">
         <NavM />
-        <HeroM />
+        <HeroR />
         
-        <Arrivals />
+        <Arrivalz />
         <About />
         <Forms />
         <Collections />
